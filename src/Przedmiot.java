@@ -31,7 +31,7 @@ public class Przedmiot {
 
     @Override
     public String toString() {
-        return String.format("Nazwa Przedmiotu: %s; ilosc punktow ECTS: %d",nazwaPrzedmiotu,liczbaPunktowECTS);
+        return String.format("Nazwa Przedmiotu: %s - ilosc punktow ECTS: %d",nazwaPrzedmiotu,liczbaPunktowECTS);
     }
 
     @Override

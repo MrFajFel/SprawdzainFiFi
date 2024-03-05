@@ -5,6 +5,8 @@ import java.util.Objects;
 public class Student {
     private String imie;
     private String nazwisko;
+
+    // myslalem tutaj nad Static ale zdecydowlaem sie nad Final
     private final int numerIndeksu;
     private int Rokstudiow;
 
