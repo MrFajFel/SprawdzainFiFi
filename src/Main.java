@@ -1,3 +1,5 @@
+import javax.swing.text.Style;
+
 public class Main {
     public static void main(String[] args) {
         Student student1 = new Student("Ryszard","WOW",12,2);

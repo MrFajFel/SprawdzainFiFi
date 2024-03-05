@@ -1,5 +1,5 @@
 import java.util.Objects;
-
+//.
 public class Przedmiot {
     private String nazwaPrzedmiotu;
     private int liczbaPunktowECTS;
