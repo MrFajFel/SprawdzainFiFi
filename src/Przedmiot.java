@@ -46,4 +46,5 @@ public class Przedmiot {
     public int hashCode() {
         return Objects.hash(nazwaPrzedmiotu, liczbaPunktowECTS);
     }
+
 }

@@ -11,7 +11,7 @@ public class Main {
         Przedmiot przedmiot2 = new Przedmiot();
         student1.dodaj(przedmiot1);
         student1.dodaj(przedmiot2);
-        // chyba dobrze
+        // chyba dobrze chyba
 
     }
 }

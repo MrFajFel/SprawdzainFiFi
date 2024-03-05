@@ -57,4 +57,5 @@ public class Student {
         przedmioty.add(przedmiot);
         System.out.println("Dodano: " + przedmiot);
     }
+
 }
